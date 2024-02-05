@@ -11,7 +11,7 @@ import json
 import os
 import pickle
 
-PATH = 'C:/Users/User/Desktop/Developer/Python_part2/hw_7'
+PATH = 'C:/Users/ADMIN-PC/Desktop/HW_8_PY'
 
 
 def get_info_about_dirs_and_files(path: str = os.getcwd()):
